@@ -1,4 +1,5 @@
 # AI-Makerspace
+![Makerspace AI Representation](https://raw.githubusercontent.com/ua-datalab/AI-Makerspace/refs/heads/main/images/banner.jpeg)
 _Sit down to code and discuss how to build AI applications with DataLab's scientists_
 
 ## Description
