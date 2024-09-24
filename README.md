@@ -12,7 +12,7 @@ The workshop is fully virtual throug Zoom.
 Enrique is a computational research scientist in the Department of Computer Science and the Data Science Institute. He has vast experience developing A.I. applications for the medical sciences and loves to work with deep learning models.
 
 ### Mithun Paul
-Mithun is a research scientist in the Data Science Institute. He has several years of experience in the Industry and the Academia.
+Mithun is a research scientist in the Data Science Institute. His PhD is in Artificial Intelligence, with a specialization in Natural Language Processing. He also has 10+ years of experience the software industry leading research and development teams. He is currently heading the team developing UofA's own homegrown chatbot: AIVerde.
 
 
 ## Dates and time
