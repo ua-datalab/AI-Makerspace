@@ -20,7 +20,7 @@ Sessions will run from Oct 4th through Nov 22nd of 2024.
 
 _Time_: Fridays @ 3:00 p.m.
 
-_Location_: Zoom TBD
+_Location_: Zoom [874 3375 8439](https://arizona.zoom.us/s/87433758439)
 
 ## Session Calendar
 | Date | Topic | Host |
