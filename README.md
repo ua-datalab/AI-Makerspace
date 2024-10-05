@@ -26,7 +26,7 @@ _Location_: Zoom [874 3375 8439](https://arizona.zoom.us/s/87433758439)
 | Date | Topic | Host |
 | ------| -----| -------|
 | 10/04 | Distributed GPU training with PyTorch | Enrique |
-| 10/11 | LLM Information extraction | Enrique |
+| 10/11 | LLM Information extraction | Mithun |
 | 10/18 | TBD | TBD |
 | 10/25 | TBD | TBD |
 | 11/01 | TBD | TBD |
