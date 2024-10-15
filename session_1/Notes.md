@@ -6,7 +6,9 @@
 ## Motivation
 Often, we train models that are too large to fit on a single GPU, such as LLMs. Our campus has HPC facilities in which we have access to nodes with GPUs themselves, however, given the sheer size of today’s models and datasets, we can benefit from doing multimode training.
 Today we are going to focus on adapting PyTorch code to run in a multimode environment, to speed up training. We will test Resnet50, a stacked CNN for image classification and let it run for one epoch on imagenet
-
+## Code
+- Distributed ResNet50 [training script](https://github.com/ua-datalab/AI-Makerspace/blob/main/session_1/resnet50.py)
+- [SLURM script](https://github.com/ua-datalab/AI-Makerspace/blob/main/session_1/run_resnet.sh) to launch the trainer script
 ## Links
 - ResNet50 training [blog post](https://moiseevigor.github.io/software/2022/12/18/one-pager-training-resnet-on-imagenet/)
 - ImageNet 1k [Kaggle dataset](https://www.kaggle.com/competitions/imagenet-object-localization-challenge/data)
