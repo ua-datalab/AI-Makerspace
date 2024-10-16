@@ -28,7 +28,7 @@ _Location_: Zoom [874 3375 8439](https://arizona.zoom.us/s/87433758439)
 | 10/04 | Distributed GPU training with PyTorch | Enrique | [Link](https://github.com/ua-datalab/AI-Makerspace/blob/main/Session_1.md)
 | 10/11 | Fine-tuning T5 with HuggingFace | Enrique | [Link](https://github.com/ua-datalab/AI-Makerspace/blob/main/session_2/Makerspace%20Session%202.ipynb) 
 | 10/18 | TBD | Mithun |
-| 10/25 | TBD | TBD |
+| 10/25 | Information Extraction witn LLMs | Enrique |
 | 11/01 | TBD | TBD |
 | 11/08 | TBD | TBD |
 | 11/15 | TBD | TBD |
