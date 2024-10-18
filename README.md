@@ -23,10 +23,10 @@ _Time_: Fridays @ 3:00 p.m.
 _Location_: Zoom [874 3375 8439](https://arizona.zoom.us/s/87433758439)
 
 ## Session Calendar
-| Date | Topic | Host | Notes |
-| ------| -----| -------| -------|
+| Date | Topic | Host | Notes | Recording |
+| ------| -----| -------| -------| -------|
 | 10/04 | Distributed GPU training with PyTorch | Enrique | [Link](https://github.com/ua-datalab/AI-Makerspace/blob/main/session_1/Notes.md)
-| 10/11 | Fine-tuning T5 with HuggingFace | Enrique | [Link](https://github.com/ua-datalab/AI-Makerspace/blob/main/session_2/Makerspace%20Session%202.ipynb) 
+| 10/11 | Fine-tuning T5 with HuggingFace | Enrique | [Link](https://github.com/ua-datalab/AI-Makerspace/blob/main/session_2/Makerspace%20Session%202.ipynb) | [YouTube](https://www.youtube.com/watch?v=reOJC3hAI6c)
 | 10/18 | Running Ollama on Your Laptop and HPC | Mithun |
 | 10/25 | Information Extraction witn LLMs | Enrique |
 | 11/01 | TBD | TBD |
