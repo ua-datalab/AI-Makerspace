@@ -27,7 +27,7 @@ _Location_: Zoom [874 3375 8439](https://arizona.zoom.us/s/87433758439)
 | ------| -----| -------| -------| -------|
 | 10/04 | Distributed GPU training with PyTorch | Enrique | [Link](https://github.com/ua-datalab/AI-Makerspace/blob/main/session_1/Notes.md) | [YouTube](https://www.youtube.com/watch?v=1b-HuEPkaOM)
 | 10/11 | Fine-tuning T5 with HuggingFace | Enrique | [Link](https://github.com/ua-datalab/AI-Makerspace/blob/main/session_2/Makerspace%20Session%202.ipynb) | [YouTube](https://www.youtube.com/watch?v=reOJC3hAI6c)
-| 10/18 | Running Ollama on Your Laptop and HPC | Mithun | [Link](https://github.com/ua-datalab/AI-Makerspace/blob/main/session_3/session3.ipynb) | 
+| 10/18 | Running Ollama on Your Laptop and HPC | Mithun | [Link](https://github.com/ua-datalab/AI-Makerspace/blob/main/session_3/session3.ipynb) | [YouTube](https://www.youtube.com/watch?v=t4ZEyc6txsg)
 | 10/25 | Information Extraction witn LLMs | Enrique | [Link](https://github.com/ua-datalab/AI-Makerspace/blob/main/session_4/IE-LLM.ipynb) |
 | 11/01 | TBD | Mithun |
 | 11/08 | TBD | Enrique |
