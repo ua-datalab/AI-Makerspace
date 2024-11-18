@@ -29,8 +29,8 @@ _Location_: Zoom [874 3375 8439](https://arizona.zoom.us/s/87433758439)
 | 10/11 | Fine-tuning T5 with HuggingFace | Enrique | [Link](https://github.com/ua-datalab/AI-Makerspace/blob/main/session_2/Makerspace%20Session%202.ipynb) | [YouTube](https://www.youtube.com/watch?v=reOJC3hAI6c)
 | 10/18 | Running Ollama on Your Laptop and HPC | Mithun | [Link](https://github.com/ua-datalab/AI-Makerspace/blob/main/session_3/session3.ipynb) | [YouTube](https://www.youtube.com/watch?v=t4ZEyc6txsg)
 | 10/25 | Information Extraction witn LLMs | Enrique | [Link](https://github.com/ua-datalab/AI-Makerspace/blob/main/session_4/IE-LLM.ipynb) | [YouTube](https://www.youtube.com/watch?v=ttcQ2V9qwUE)
-| 11/01 | Cyverse+ AI Verde + RAG + prompt engineering| Mithun |[Link](https://github.com/ua-datalab/AI-Makerspace/blob/main/session_5/demo.ipynb) | 
-| 11/08 | Parameter Efficient Fine Tuning (PEFT) of Transformer Models | Enrique | [Link](https://github.com/ua-datalab/AI-Makerspace/blob/main/Session6.md) |
+| 11/01 | Cyverse+ AI Verde + RAG + prompt engineering| Mithun |[Link](https://github.com/ua-datalab/AI-Makerspace/blob/main/session_5/demo.ipynb) | [YouTube](https://www.youtube.com/watch?v=68InHpNFHxg)
+| 11/08 | Parameter Efficient Fine Tuning (PEFT) of Transformer Models | Enrique | [Link](https://github.com/ua-datalab/AI-Makerspace/blob/main/Session6.md) | [YouTube](https://www.youtube.com/watch?v=SHDS5RHovUE)
 | 11/15 | Dense passage retrieval  | Mithun |
 | 11/22 | TBD | Mithun |
 
