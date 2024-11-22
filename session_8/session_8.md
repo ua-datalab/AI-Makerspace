@@ -105,9 +105,9 @@
 - [Labelbox](https://docs.labelbox.com/)
 - - data annotation platform
 
-**Tools to Keeping track of inference costs**
--<https://a16z.com/llmflation-llm-inference-cost/>
-<https://towardsdatascience.com/economics-of-hosting-open-source-llms-17b4ec4e7691>
+**Keeping track of inference costs**
+- [llmflation](https://a16z.com/llmflation-llm-inference-cost/)
+- [economics](https://towardsdatascience.com/economics-of-hosting-open-source-llms-17b4ec4e7691)
 
-**Best open source AI models (as of Nov 2024)**
-<https://www.zdnet.com/article/the-best-open-source-ai-models-all-your-free-to-use-options-explained/>
+**News**
+- [Best open source AI models (as of Nov 2024)](https://www.zdnet.com/article/the-best-open-source-ai-models-all-your-free-to-use-options-explained/)
