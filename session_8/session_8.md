@@ -6,19 +6,33 @@
 **Hosted AI providers**
 
 - [VLLM](https://github.com/vllm-project/vllm)
-        1. [docs](https://docs.vllm.ai/en/latest/#)
+        - [docs](https://docs.vllm.ai/en/latest/#)
             - used for complex work loads
             - and high-throughput and low-latency inference
-    4. [LiteLLM](https://docs.litellm.ai/docs/) -lite weight- simpler usecases
-        1. Hosted: <https://openwebui.com/>
-    5. Store data locally and talk to an AI
-        1. <https://github.com/Bin-Huang/chatbox/>
-    6. Anythigai
-        1. <https://docs.anythingllm.com/>
-        5. **Tracking and optimization and debugging**
-            1. Lunary
+- [LiteLLM](https://docs.litellm.ai/docs/)
+        - lite weight
+        - simpler usecases
+- web interface Hosted: <https://openwebui.com/>
+- [Chatbox](<https://github.com/Bin-Huang/chatbox/>)
+        - Store data locally/private and talk to an AI
+        - 
+- [Anythigai](https://docs.anythingllm.com/)
+
+**Tracking and optimization and debugging of your LLM hosting and usage**
+
+- [Lunary](https://lunary.ai/)
+- -  Tracks API usage
+- [Langfuse](https://github.com/langfuse/langfuse)
+- - Workflow debugging
+- - Visual time lines
+- [Helicone](https://www.helicone.ai/)
+    - - [Lunary](https://lunary.ai/)
+      - - [Lunary](https://lunary.ai/)
+        - - [Lunary](https://lunary.ai/)
+          - - [Lunary](https://lunary.ai/)
+            - 
                 1. Tracks API usage
-            2. [Langfuse](https://github.com/langfuse/langfuse)
+            2. 
                 1. Workflow debugging
                 2. Visual time lines
             3. [Helicone](https://www.helicone.ai/)
