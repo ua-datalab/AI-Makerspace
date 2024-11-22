@@ -1,24 +1,20 @@
-- 1. **Nov 22nd last class**
-        1. **Tracking**
-            1. **MLFlow?**
-            2. Wandb
-        2. Largest models
-            1. Gemini
-            2. LLama
-            3. Claude
-            4. <https://research.nvidia.com/labs/adlr/NVLM-1/>
+## Some useful AI tools
+**For tracking your AI model training or fine tuning progression etc**
+- [MLFlow](https://mlflow.org/)
+- [Wandb](https://wandb.ai/home)
 
-        4. **Hosted stuff providers**
-            1. [VLLM](https://github.com/vllm-project/vllm)
-                1. <https://docs.vllm.ai/en/latest/#>
-            2. Complex work loads
-            3. **high-throughput and low-latency inference**
-            4. [LiteLLM](https://docs.litellm.ai/docs/) -lite weight- simpler usecases
-                1. Hosted: <https://openwebui.com/>
-            5. Store data locally
-                1. <https://github.com/Bin-Huang/chatbox/>
-            6. Anythigai
-                1. <https://docs.anythingllm.com/>
+**Hosted AI providers**
+
+- [VLLM](https://github.com/vllm-project/vllm)
+        1. [docs](https://docs.vllm.ai/en/latest/#)
+            - used for complex work loads
+            - and high-throughput and low-latency inference
+    4. [LiteLLM](https://docs.litellm.ai/docs/) -lite weight- simpler usecases
+        1. Hosted: <https://openwebui.com/>
+    5. Store data locally and talk to an AI
+        1. <https://github.com/Bin-Huang/chatbox/>
+    6. Anythigai
+        1. <https://docs.anythingllm.com/>
         5. **Tracking and optimization and debugging**
             1. Lunary
                 1. Tracks API usage
@@ -30,15 +26,22 @@
             4. [Promptlayer](https://www.promptlayer.com/)
                 1. Prompt management
 
-Version control for prompts
 
-Prompt analytics
+        
 
-- - - 1. [Traceloop](https://www.traceloop.com/)
+      5.  [VLLM](https://github.com/vllm-project/vllm)
+                1. <https://docs.vllm.ai/en/latest/#>
+          [LiteLLM](https://docs.litellm.ai/docs/) -lite weight- simpler usecases
+                1. Hosted: <https://openwebui.com/>
+            5. Store data locally
+                1. <https://github.com/Bin-Huang/chatbox/>
+            6. Anythigai
+                1. <https://docs.anythingllm.com/>
+          [Traceloop](https://www.traceloop.com/)
                 1.  real-time tracing, debugging, and monitoring
             2.  [langsmith](https://www.langchain.com/langsmith)
 
-      2. **Some interesting applications already out there for llm**
+      7. **Some interesting applications already out there for llm**
             1. **Code for me**
                 1. [Openhands](https://docs.all-hands.dev/modules/usage/getting-started)
                 2. Please write a bash script hello.sh that prints "hello world!"
