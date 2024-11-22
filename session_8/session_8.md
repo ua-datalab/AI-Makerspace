@@ -18,11 +18,11 @@
         - 
 - [Anythigai](https://docs.anythingllm.com/)
 
-- On Demand
-- - OpenAI API
-  - Azure OpenAI Service.
-- Serverless
-        - AWS Lambda with LLM inference,
+- Paid + On Demand
+- - OpenAI API(https://openai.com/api/)
+  - [Azure OpenAI Service](https://azure.microsoft.com/en-us/products/ai-services/openai-service)
+- Paid + Serverless
+- - [AWS Lambda](https://aws.amazon.com/lambda/) 
 
 **Tracking and optimization and debugging of your LLM hosting and usage**
 
@@ -65,7 +65,6 @@
     - [Synthid](https://deepmind.google/technologies/synthid/)
 - [AI Agents](https://lilianweng.github.io/posts/2023-06-23-agent/)
 
-
 - **Online Classes for AI** 
 - - [Fast Ai](https://www.fast.ai/)
 - - [Khan Academy](https://www.khanacademy.org)
@@ -92,12 +91,10 @@
 
 **Biology/Medicine related**
 - [curateGPT] (https://github.com/monarch-initiative/curategpt?tab=readme-ov-file)
-- mCodeGPT
+- [mCodeGPT](https://mcodegpt.org/)
 - - for extracting Minimal Common Oncology Data Elements (mCODE) from EHRs.
-- - SDoH-GPT
+- [SDoH-GPT](https://github.com/AIM-Harvard/SDoH)
   - for extracting Social Determinants of Health (SDoH) from unstructured data in EHRs
-- Multimodal Graph-LLM
-                1.  for predicting clinical events using both structured and unstructured EHR data.
 
 **Knowledge curation related**
 - [Stanford's storm](https://storm.genie.stanford.edu/)
@@ -111,3 +108,6 @@
 
 **News**
 - [Best open source AI models (as of Nov 2024)](https://www.zdnet.com/article/the-best-open-source-ai-models-all-your-free-to-use-options-explained/)
+- [AI For visually impaired](https://www.hackster.io/shahizat/ai-powered-application-for-the-blind-and-visually-impaired-df3f9e)
+- [Turn by turn access with AI For visually impaired](https://arxiv.org/html/2410.19954v1)
+- [VIASSIST For visually impaired](https://arxiv.org/html/2404.02508v1)
