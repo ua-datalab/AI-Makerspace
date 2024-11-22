@@ -18,6 +18,12 @@
         - 
 - [Anythigai](https://docs.anythingllm.com/)
 
+- On Demand
+- - OpenAI API
+  - Azure OpenAI Service.
+- Serverless
+        - AWS Lambda with LLM inference,
+
 **Tracking and optimization and debugging of your LLM hosting and usage**
 
 - [Lunary](https://lunary.ai/)
@@ -48,36 +54,44 @@
 - - [Fabric](https://github.com/danielmiessler/fabric)
                
 
-- *Web Crawlers with AI.  *
+- *Web Crawlers with AI.*
 - - [Crawl4ai](https://github.com/unclecode/crawl4ai)
 - - [Ivy](https://ivy.ai/ai-web-crawler)
 
+- *Upload your own data and query it*
+- - [notebookLM](https://notebooklm.google.com/?authuser=1&original_referer=https:%2F%2Fduckduckgo.com%23)
 
-- *Classes for AI * 
+- Identify ai generated content*
+    - [Synthid](https://deepmind.google/technologies/synthid/)
+- [AI Agents](https://lilianweng.github.io/posts/2023-06-23-agent/)
+
+
+- **Online Classes for AI** 
 - - [Fast Ai](https://www.fast.ai/)
 - - [Khan Academy](https://www.khanacademy.org)
 - - - helps you learn with Khanmingo bot
 
-**Lightweight On device models**
-            1.  [Smolllm](https://huggingface.co/HuggingFaceTB/SmolLM2-1.7B-Instruct)
-            2.  [Llmware](https://llmware.ai/)
-                1.  Financial legal compliance
-            3.  [Torchao- tool to reduce size of llm](https://pytorch.org/blog/pytorch-native-architecture-optimization/)
-            4.  [Review paper on other small language models](https://arxiv.org/abs/2409.15790)
-            5.  [Berkeley](https://huggingface.co/squeeze-ai-lab/TinyAgent-ToolRAG)’s tiny Agent
-            6.  [NVIDIA’s nemotron](https://www.marktechpost.com/2024/09/14/nvidia-open-sources-nemotron-mini-4b-instruct-a-4096-token-capacity-small-language-model-designed-for-roleplaying-function-calling-and-efficient-on-device-deployment-with-32-attention-heads-and-9/)
-            7.  [Yicoder](https://github.com/01-ai/Yi-Coder)
-        3.  **AIVerde rag competitors**
-            1.  On-Demand Providers vs Serverless Providers
-                1.  OpenAI API, Azure OpenAI Service.
-                2.  AWS Lambda with LLM inference,
-            2.  [notebookLM](https://notebooklm.google.com/?authuser=1&original_referer=https:%2F%2Fduckduckgo.com%23)
-            3.  [Maizey](https://www.youtube.com/watch?v=Lkyy1cvQiKA)
-            4.  [anvil gpt](https://www.rcac.purdue.edu/knowledge/anvil/anvilgpt)
-        4.  Identify ai generated content
-            1.  [Synthid](https://deepmind.google/technologies/synthid/)
-        5.  [Agents](https://lilianweng.github.io/posts/2023-06-23-agent/)
-        6.  Biology related
+**Lightweight/edge/On device models**
+- [Smolllm](https://huggingface.co/HuggingFaceTB/SmolLM2-1.7B-Instruct)
+- [Llmware](https://llmware.ai/)
+- - Financial legal compliance
+- [Torchao- Pytorch tool to reduce size of llm](https://pytorch.org/blog/pytorch-native-architecture-optimization/)
+- [Review paper on other small language models](https://arxiv.org/abs/2409.15790)
+- [Tiny agent from Berkeley](https://huggingface.co/squeeze-ai-lab/TinyAgent-ToolRAG)
+- [NVIDIA’s nemotron](https://www.marktechpost.com/2024/09/14/nvidia-open-sources-nemotron-mini-4b-instruct-a-4096-token-capacity-small-language-model-designed-for-roleplaying-function-calling-and-efficient-on-device-deployment-with-32-attention-heads-and-9/)
+- [Yicoder](https://github.com/01-ai/Yi-Coder)
+
+**University related AI platforms**
+- [AI Verde](https://chat.openai.com/)
+- - University of Arizona's free serverless Providers
+  - Built on cyverse and NSF Jetstream
+- [Maizey](https://www.youtube.com/watch?v=Lkyy1cvQiKA)
+- - U Michigan
+- [anvil gpt](https://www.rcac.purdue.edu/knowledge/anvil/anvilgpt)
+- - Purdue + ACCESS + NSF Jetstream
+1.  
+            2.
+            6.  Biology related
             1.  [curateGPT](https://arxiv.org/abs/2411.00046)
                 1.  <https://github.com/monarch-initiative/curategpt?tab=readme-ov-file>
             2.  mCodeGPT
