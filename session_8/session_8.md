@@ -89,31 +89,25 @@
 - - U Michigan
 - [anvil gpt](https://www.rcac.purdue.edu/knowledge/anvil/anvilgpt)
 - - Purdue + ACCESS + NSF Jetstream
-1.  
-            2.
-            6.  Biology related
-            1.  [curateGPT](https://arxiv.org/abs/2411.00046)
-                1.  <https://github.com/monarch-initiative/curategpt?tab=readme-ov-file>
-            2.  mCodeGPT
-                1.  for extracting Minimal Common Oncology Data Elements (mCODE) from EHRs.
-            3.  SDoH-GPT
-                1.  for extracting Social Determinants of Health (SDoH) from unstructured data in EHRs
-            4.  Multimodal Graph-LLM f
-                1.  for predicting clinical events using both structured and unstructured EHR data.
-        7.  Knowledge curation
-            1.  Write wikipedia like articles; <https://storm.genie.stanford.edu/>
-            2.  Labelbox- [dataannotation](https://docs.labelbox.com/)
-        8.  Keeping track of inference costs
-            1.  <https://a16z.com/llmflation-llm-inference-cost/>
-            2.  <https://towardsdatascience.com/economics-of-hosting-open-source-llms-17b4ec4e7691>
-            3.  <https://www.zdnet.com/article/the-best-open-source-ai-models-all-your-free-to-use-options-explained/>
-        9.  Multimodal
-        10. **Dense retrieval**
-            1.  **Set up your own chroma db and weaviate**
-            2.  Sentence transformers to create embedding
-            3.  Indexing embeddings
-            4.  Vector db does it
-            5.  **Cyverse**
-        11. **Build chatbot with RAG+ Gradio (Mithun)** [**https://www.gradio.app/guides/creating-a-chatbot-fast/**](https://www.gradio.app/guides/creating-a-chatbot-fast/)
-            1.  [**https://www.gradio.app/guides/sharing-your-app#hosting-on-hf-spaces**](https://www.gradio.app/guides/sharing-your-app#hosting-on-hf-spaces)
 
+**Biology/Medicine related**
+- [curateGPT] (https://github.com/monarch-initiative/curategpt?tab=readme-ov-file)
+- mCodeGPT
+- - for extracting Minimal Common Oncology Data Elements (mCODE) from EHRs.
+- - SDoH-GPT
+  - for extracting Social Determinants of Health (SDoH) from unstructured data in EHRs
+- Multimodal Graph-LLM
+                1.  for predicting clinical events using both structured and unstructured EHR data.
+
+**Knowledge curation related**
+- [Stanford's storm](https://storm.genie.stanford.edu/)
+- - Write wikipedia like articles
+- [Labelbox](https://docs.labelbox.com/)
+- - data annotation platform
+
+**Tools to Keeping track of inference costs**
+-<https://a16z.com/llmflation-llm-inference-cost/>
+<https://towardsdatascience.com/economics-of-hosting-open-source-llms-17b4ec4e7691>
+
+**Best open source AI models (as of Nov 2024)**
+<https://www.zdnet.com/article/the-best-open-source-ai-models-all-your-free-to-use-options-explained/>
