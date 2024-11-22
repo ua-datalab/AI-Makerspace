@@ -4,20 +4,14 @@
 - [Wandb](https://wandb.ai/home)
 
 **Hosted AI providers**
-
 - [VLLM](https://github.com/vllm-project/vllm)
-        - [docs](https://docs.vllm.ai/en/latest/#)
-            - used for complex work loads
-            - and high-throughput and low-latency inference
+- - used for complex work loads, high-throughput and low-latency inference
 - [LiteLLM](https://docs.litellm.ai/docs/)
-        - lite weight
-        - simpler usecases
-- web interface Hosted: <https://openwebui.com/>
+- - lite weight and simpler usecases
+- [web interface Hosted](https://openwebui.com/)
 - [Chatbox](<https://github.com/Bin-Huang/chatbox/>)
-        - Store data locally/private and talk to an AI
-        - 
+- - Store data locally/private and talk to an AI
 - [Anythigai](https://docs.anythingllm.com/)
-
 - Paid + On Demand
 - - OpenAI API(https://openai.com/api/)
   - [Azure OpenAI Service](https://azure.microsoft.com/en-us/products/ai-services/openai-service)
@@ -102,12 +96,12 @@
 - [Labelbox](https://docs.labelbox.com/)
 - - data annotation platform
 
-**Keeping track of inference costs**
-- [llmflation](https://a16z.com/llmflation-llm-inference-cost/)
-- [economics](https://towardsdatascience.com/economics-of-hosting-open-source-llms-17b4ec4e7691)
 
 **News**
 - [Best open source AI models (as of Nov 2024)](https://www.zdnet.com/article/the-best-open-source-ai-models-all-your-free-to-use-options-explained/)
 - [AI For visually impaired](https://www.hackster.io/shahizat/ai-powered-application-for-the-blind-and-visually-impaired-df3f9e)
 - [Turn by turn access with AI For visually impaired](https://arxiv.org/html/2410.19954v1)
 - [VIASSIST For visually impaired](https://arxiv.org/html/2404.02508v1)
+- [LLmflation Keeping track of LLM Costs](https://a16z.com/llmflation-llm-inference-cost/)
+- [Economics of Hosting open source llms](https://towardsdatascience.com/economics-of-hosting-open-source-llms-17b4ec4e7691)
+
