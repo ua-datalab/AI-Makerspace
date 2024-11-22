@@ -31,62 +31,34 @@
 - - Prompt management
 - - Version control for prompts
 - - Prompt analytics
-  
 - [Traceloop](https://www.traceloop.com/)
-          - - real-time tracing, debugging, and monitoring
-            - [LangSmith](https://www.langchain.com/langsmith)langsmith
-                1. Tracks API usage
-            2. 
-                1. Workflow debugging
-                2. Visual time lines
-            3. [Helicone](https://www.helicone.ai/)
-                1. tracking, optimizing, and debugging API usage
-            4. [Promptlayer](https://www.promptlayer.com/)
-                1. Prompt management
+- - real-time tracing, debugging, and monitoring
+- [LangSmith](https://www.langchain.com/langsmith)
+- - Wrapper for Langchain
+         
+**Some interesting applications already out there for llm**
+- *Code for me*
+- - [Openhands](https://docs.all-hands.dev/modules/usage/getting-started)
+  - Please write a bash script hello.sh that prints "hello world!"
+- *Write and evaluate grant applications for me*
+- - [Grantasuarus](https://sc.edu/about/offices_and_divisions/research/news_and_pubs/news/2024/20241009_AI_Roadmap_Launch.php)
+- *simulate realistic human-like behaviors in programmatically defined environments.*
+- - [Troupe](https://github.com/microsoft/TinyTroupe)
+- *Help with real life problems/break down*.  
+- - [Fabric](https://github.com/danielmiessler/fabric)
+               
+
+- *Web Crawlers with AI.  *
+- - [Crawl4ai](https://github.com/unclecode/crawl4ai)
+- - [Ivy](https://ivy.ai/ai-web-crawler)
 
 
-        
+- *Classes for AI * 
+- - [Fast Ai](https://www.fast.ai/)
+- - [Khan Academy](https://www.khanacademy.org)
+- - - helps you learn with Khanmingo bot
 
-      5.  [VLLM](https://github.com/vllm-project/vllm)
-                1. <https://docs.vllm.ai/en/latest/#>
-          [LiteLLM](https://docs.litellm.ai/docs/) -lite weight- simpler usecases
-                1. Hosted: <https://openwebui.com/>
-            5. Store data locally
-                1. <https://github.com/Bin-Huang/chatbox/>
-            6. Anythigai
-                1. <https://docs.anythingllm.com/>
-          [Traceloop](https://www.traceloop.com/)
-                1.  real-time tracing, debugging, and monitoring
-            2.  [langsmith](https://www.langchain.com/langsmith)
-
-      7. **Some interesting applications already out there for llm**
-            1. **Code for me**
-                1. [Openhands](https://docs.all-hands.dev/modules/usage/getting-started)
-                2. Please write a bash script hello.sh that prints "hello world!"
-            2. Grantasuarus
-
-[Writing grants](https://sc.edu/about/offices_and_divisions/research/news_and_pubs/news/2024/20241009_AI_Roadmap_Launch.php)
-
-- - - 1. [Troupe](https://github.com/microsoft/TinyTroupe)
-                1.  simulate realistic human-like behaviors in programmatically defined environments.
-            2.  Fabric
-                1.  [Problem breakdown](https://github.com/danielmiessler/fabric)
-                2.  LLM friendly web crawlers
-
-Crawl4ai
-
-<https://github.com/unclecode/crawl4ai>
-
-Ivy
-
-<https://ivy.ai/ai-web-crawler>
-
-- - 1. Classes to read
-            1.  Fast AI course in prompt engineering.
-            2.  Khanmingo
-                1.  <https://www.khanacademy.org/join/WHUCZHF5>
-                2.  Guides students through learning processes
-        2.  **Lightweight On device models**
+**Lightweight On device models**
             1.  [Smolllm](https://huggingface.co/HuggingFaceTB/SmolLM2-1.7B-Instruct)
             2.  [Llmware](https://llmware.ai/)
                 1.  Financial legal compliance
