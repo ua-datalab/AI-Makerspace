@@ -32,7 +32,7 @@ _Location_: Zoom [874 3375 8439](https://arizona.zoom.us/s/87433758439)
 | Session 5: 11/01 | Cyverse+ AI Verde + prompt engineering| Mithun |[Link](https://github.com/ua-datalab/AI-Makerspace/blob/main/session_5/demo.ipynb) | [YouTube](https://www.youtube.com/watch?v=68InHpNFHxg)
 | Session 6: 11/08 | Parameter Efficient Fine Tuning (PEFT) of Transformer Models | Enrique | [Link](https://github.com/ua-datalab/AI-Makerspace/blob/main/Session6.md) | [YouTube](https://www.youtube.com/watch?v=SHDS5RHovUE)
 | Session 7: 11/15 | Dense passage retrieval  | Mithun | [Link](https://github.com/ua-datalab/AI-Makerspace/blob/main/session_7/rag_chroma_langsmith.ipynb)|
-| Session8:11/22 | Review+wrap up + some handy tools| Mithun |
+| Session8:11/22 | Review+wrap up + some handy tools| Mithun |[link](https://github.com/ua-datalab/AI-Makerspace/blob/main/session_8/session_8.md)|
 
 
 > [!NOTE]
