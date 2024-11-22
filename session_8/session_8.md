@@ -26,11 +26,15 @@
 - - Workflow debugging
 - - Visual time lines
 - [Helicone](https://www.helicone.ai/)
-    - - [Lunary](https://lunary.ai/)
-      - - [Lunary](https://lunary.ai/)
-        - - [Lunary](https://lunary.ai/)
-          - - [Lunary](https://lunary.ai/)
-            - 
+    - - tracking, optimizing, and debugging API usage
+- [Promptlayer](https://www.promptlayer.com/)
+- - Prompt management
+- - Version control for prompts
+- - Prompt analytics
+  
+- [Traceloop](https://www.traceloop.com/)
+          - - real-time tracing, debugging, and monitoring
+            - [LangSmith](https://www.langchain.com/langsmith)langsmith
                 1. Tracks API usage
             2. 
                 1. Workflow debugging
