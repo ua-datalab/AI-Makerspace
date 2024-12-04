@@ -84,12 +84,99 @@
 - - Purdue + ACCESS + NSF Jetstream
 
 **Biology/Medicine related**
-- [curateGPT] (https://github.com/monarch-initiative/curategpt?tab=readme-ov-file)
-- [mCodeGPT](https://mcodegpt.org/)
+
+
+**1. BioGPT**
+- **Description**: Developed by Microsoft Research, BioGPT is a transformer-based model fine-tuned on biomedical literature. It excels in extracting relationships between biomedical entities and answering domain-specific questions.
+- **Applications**:
+  - Mining relationships in biomedical datasets.
+  - Extracting structured data from clinical notes and scientific papers.
+- **Access**: Available on [Hugging Face](https://huggingface.co/microsoft/BioGPT).
+
+---
+
+**2. ClinicalBERT**
+- **Description**: ClinicalBERT is a fine-tuned version of BERT on clinical text, particularly from the MIMIC-III dataset. It is designed to process EHR data effectively.
+- **Applications**:
+  - Clinical note analysis.
+  - Predicting medical outcomes and improving patient care.
+- **Strength**: Tailored for natural language processing (NLP) tasks specific to healthcare.
+
+---
+
+**3. MedPaLM and MedPaLM 2**
+- **Description**: MedPaLM is an adaptation of Google's PaLM, fine-tuned on medical datasets to handle health-related queries and extract actionable insights from patient data.
+- **Applications**:
+  - Conversational agents for healthcare.
+  - Summarizing clinical documents.
+- **Advancement**: Designed to meet medical safety and accuracy standards.
+
+---
+
+**4. PubMedGPT**
+- **Description**: PubMedGPT is trained on the PubMed database, a vast repository of biomedical literature. It focuses on extracting and generating insights related to biomedical research.
+- **Applications**:
+  - Literature review automation.
+  - Drug interaction studies.
+- **Strength**: Specialized for handling biomedical research content.
+
+---
+
+**5. BioBERT**
+- **Description**: BioBERT is a BERT-based model trained on PubMed abstracts and PubMed Central full-text articles. It is one of the first models tailored for biomedical text mining.
+- **Applications**:
+  - Named entity recognition (NER) for biomedical terms.
+  - Relationship extraction in biomedical research.
+- **Access**: Freely available for research purposes.
+
+---
+
+**6. Galactica**
+- **Description**: Meta AI's Galactica is designed for scientific knowledge representation, including biomedical contexts.
+- **Applications**:
+  - Summarizing scientific articles.
+  - Extracting structured information from unstructured text.
+- **Strength**: Multidisciplinary but includes a strong focus on biomedical data.
+
+---
+
+**7. SapBERT**
+- **Description**: SapBERT (Self-Aligned BERT) focuses on biomedical concept representation and entity normalization.
+- **Applications**:
+  - Linking biomedical concepts in databases.
+  - Structured information extraction.
+- **Special Feature**: Performs exceptionally well in cross-lingual medical text processing.
+
+---
+
+**8. MedAlpaca and Pythia (Healthcare Variants)**
+- **Description**: Fine-tuned versions of Alpaca or Pythia models optimized for healthcare settings.
+- **Applications**:
+  - Medical transcription and summarization.
+  - Diagnosis assistance through structured text processing.
+- **Strength**: Tuned for rapid deployment in healthcare workflows.
+
+---
+
+ **9. ClinicalTransformer Models**
+- **Description**: A family of transformer-based models specifically designed for healthcare providers and researchers to automate clinical document processing.
+- **Applications**:
+  - Extracting ICD (International Classification of Diseases) codes from clinical notes.
+  - Analyzing diagnostic imaging reports.
+
+---
+ **10. Custom Models by Large Companies**
+- Many tech companies are developing proprietary models or fine-tuning open-source ones for medical use:
+  - **IBM Watson Health NLP**: Focuses on cancer care and clinical trials.
+  - **Microsoft Azure Health Bot**: Analyzes patient conversations and extracts relevant data.
+  - **Amazon HealthLake NLP**: Processes and extracts insights from EHRs.
+- **11** [curateGPT](https://github.com/monarch-initiative/curategpt?tab=readme-ov-file)
+- **12** [mCodeGPT](https://mcodegpt.org/)
 - - for extracting Minimal Common Oncology Data Elements (mCODE) from EHRs.
-- [SDoH-GPT](https://github.com/AIM-Harvard/SDoH)
+- **13** [SDoH-GPT](https://github.com/AIM-Harvard/SDoH)
   - for extracting Social Determinants of Health (SDoH) from unstructured data in EHRs
 
+---
 **Knowledge curation related**
 - [Stanford's storm](https://storm.genie.stanford.edu/)
 - - Write wikipedia like articles
