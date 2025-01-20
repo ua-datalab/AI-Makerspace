@@ -5,7 +5,7 @@ _Sit down to code and discuss how to build AI applications with DataLab's scient
 ## Description
 Put to practice your knowledge by having some hands-on experience in some of the latest cutting edge AI tools. In this series of workshops we will spend an hour each week developing and testing some advanced AI topics, such as fine tunning and LLM, creating a vector database for a _retrieval augmented generation_ application, distributed training with pytorch, among others.
 
-Please attend our in-person AI Makerspace meet-ups @ Snakes & Lattes 
+Please attend our in-person AI Makerspace Meet-Ups @ Snakes & Lattes 
 
 ## Instructors
 ### Enrique Noriega
@@ -26,9 +26,11 @@ _Time_: Tuesdays @ 3:30-4:30 p.m.
 <!-- _Location_: Zoom [874 3375 8439](https://arizona.zoom.us/s/87433758439) 
 -->
 
-_Location_:  Snakes & Lattes Tucson (988 E University Blvd, Tucson, AZ).
+_Location_:  [Snakes & Lattes Tucson](https://www.snakesandlattes.com/tucson) (988 E University Blvd, Tucson, AZ).
 
-## Previous sessions
+***
+
+## Previous sessions (Fall 2024)
 
 | Date | Topic | Host | Notes | Recording |
 | ------| -----| -------| -------| -------|
@@ -39,7 +41,7 @@ _Location_:  Snakes & Lattes Tucson (988 E University Blvd, Tucson, AZ).
 | Session 5: 11/01 | Cyverse+ AI Verde + prompt engineering| Mithun |[Link](https://github.com/ua-datalab/AI-Makerspace/blob/main/session_5/demo.ipynb) | [YouTube](https://www.youtube.com/watch?v=68InHpNFHxg)
 | Session 6: 11/08 | Parameter Efficient Fine Tuning (PEFT) of Transformer Models | Enrique | [Link](https://github.com/ua-datalab/AI-Makerspace/blob/main/Session6.md) | [YouTube](https://www.youtube.com/watch?v=SHDS5RHovUE)
 | Session 7: 11/15 | Dense passage retrieval  | Mithun | [Link](https://github.com/ua-datalab/AI-Makerspace/blob/main/session_7/rag_chroma_langsmith.ipynb)|
-| Session8:11/22 | Review+wrap up + some handy tools| Mithun |[link](https://github.com/ua-datalab/AI-Makerspace/blob/main/session_8/session_8.md)|
+| Session 8: 11/22 | Review+wrap up + some handy tools| Mithun |[link](https://github.com/ua-datalab/AI-Makerspace/blob/main/session_8/session_8.md)|
 
 
 > [!NOTE]
