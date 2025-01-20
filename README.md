@@ -1,4 +1,4 @@
-# AI-Makerspace
+# AI-Makerspace Meet-Up
 ![Makerspace AI Representation](https://raw.githubusercontent.com/ua-datalab/AI-Makerspace/refs/heads/main/images/banner.jpeg)
 _Sit down to code and discuss how to build AI applications with DataLab's scientists_
 
@@ -19,14 +19,11 @@ Mithun is a research scientist in the Data Science Institute. His PhD is in Arti
 Carlos is a computational and data scientist educator at the Data Science Institute. He has broad experience in computational sciences, applied mathematics and data science (machine learning and AI applications).   
 
 ## Dates and time
+
 Sessions will run from Jan 28th through Mar 25th of 2025. 
 
-_Time_: Tuesdays @ 3:30-4:30 p.m.
-
-<!-- _Location_: Zoom [874 3375 8439](https://arizona.zoom.us/s/87433758439) 
--->
-
-_Location_:  [Snakes & Lattes Tucson](https://www.snakesandlattes.com/tucson) (988 E University Blvd, Tucson, AZ).
+* **When:** Tuesdays @ 3:30-4:30 p.m.
+* **Where:**  [Snakes & Lattes Tucson](https://www.snakesandlattes.com/tucson) (988 E University Blvd, Tucson, AZ).
 
 ***
 
