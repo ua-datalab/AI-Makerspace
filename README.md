@@ -43,3 +43,18 @@ Sessions will run from Jan 28th through Mar 25th of 2025.
 
 > [!NOTE]
 > Topics are subject to change based on the requests of the audience
+>
+
+***
+
+Created: 10/01/2024 (E. Noriega)
+
+Updated: 01/20/2025 (C. Lizárraga)
+
+[DataLab](https://www.datascience.arizona.edu/education/uarizona-data-lab), Data Science Institute,
+University of Arizona. 
+
+<img src="https://mirrors.creativecommons.org/presskit/buttons/88x31/png/by-nc-sa.png" width="128">  [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/)
+
+[<img src="https://datascience.arizona.edu/sites/default/files/Data%20Science%20Institute_Webheader%20%281%29.svg" width="256">](https://datascience.arizona.edu)
+
