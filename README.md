@@ -3,7 +3,7 @@
 _Sit down to code and discuss how to build AI applications with DataLab's scientists_
 
 ## Description
-Put to practice your knowledge by having some hands-on experience in some of the latest cutting edge AI tools. In this series of workshops we will spend an hour each week developing and testing some advanced AI topics, such as fine tunning and LLM, creating a vector database for a _retrieval augmented generation_ application, distributed training with pytorch, among others.
+Put your knowledge into practice through hands-on experience with cutting-edge AI tools. In this workshop series, we will spend an hour each week developing and testing advanced AI topics, including fine-tuning LLMs, creating vector databases for retrieval-augmented generation applications, and implementing distributed training with PyTorch.
 
 Please attend our in-person AI Makerspace Meet-Ups @ Snakes & Lattes 
 
