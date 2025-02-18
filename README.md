@@ -14,10 +14,10 @@ Please attend our in-person AI Makerspace Meet-Ups @ Snakes & Lattes. Enjoy a co
 ### Enrique Noriega
 Enrique is a computational research scientist in the Department of Computer Science and the Data Science Institute. He has vast experience developing A.I. applications for the medical sciences and loves to work with deep learning models.
 
-<!--
+
 ### Mithun Paul
-Mithun is a research scientist in the Data Science Institute. His PhD is in Artificial Intelligence, with a specialization in Natural Language Processing. He also has 10+ years of experience the software industry leading research and development teams. He is currently heading the team developing UofA's own homegrown chatbot: AIVerde.
--->
+Mithun is a research scientist in the Data Science Institute. His PhD is in Artificial Intelligence, with a specialization in Natural Language Processing. He also has 10+ years of experience the software industry leading research and development teams. He is currently heading the team developing UofA's own homegrown LLM distribution platform: AIVerde.
+
 ### Carlos Lizárraga
 Carlos is a computational and data scientist educator at the Data Science Institute. He has broad experience in computational sciences, applied mathematics and data science (machine learning and AI applications).   
 
