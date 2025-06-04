@@ -20,7 +20,7 @@ Carlos is a computational and data scientist educator at the Data Science Instit
 
 ## Dates and time
 
-| **Sessions will run from August 26th through October 28th, 2025.** |
+| **Sessions:** from August 26th through October 28th, 2025. |
 | :-- |
 | **When:** Tuesdays @ 3:30-4:30 p.m. |
 | **Where:**  [Snakes & Lattes Tucson](https://www.snakesandlattes.com/tucson) (988 E University Blvd, Tucson, AZ). |
