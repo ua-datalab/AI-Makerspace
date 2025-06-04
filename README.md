@@ -4,29 +4,28 @@ _Sit down to code and discuss how to build AI applications with DataLab's scient
 
 ## Description
 
-Do you need help with an AI/ML coding problem or would you like to discuss AI technology?
+Looking for help with AI/ML coding challenges or interested in discussing AI technology?
 
-Put your knowledge into practice through hands-on experience with cutting-edge AI tools. In this Meet-Up series, we will spend an hour each week developing and testing advanced AI topics, including fine-tuning LLMs, creating vector databases for retrieval-augmented generation applications, and implementing distributed training with PyTorch.
+Join us for hands-on experience with cutting-edge AI tools. Our weekly one-hour Meet-Up series covers advanced AI topics, including LLM fine-tuning, vector databases for retrieval-augmented generation, and distributed training with PyTorch.
 
-Please attend our in-person AI Makerspace Meet-Ups @ Snakes & Lattes. Enjoy a coffee or beverage of your choice. 
+Join us at our in-person AI Makerspace Meet-Ups at Snakes & Lattes. Grab your favorite coffee or beverage while you're there!
 
 ## Instructors
-### Enrique Noriega
+
+**Enrique Noriega**<br>
 Enrique is a computational research scientist in the Department of Computer Science and the Data Science Institute. He has vast experience developing A.I. applications for the medical sciences and loves to work with deep learning models.
 
-
-### Mithun Paul
-Mithun is a research scientist in the Data Science Institute. His PhD is in Artificial Intelligence, with a specialization in Natural Language Processing. He also has 10+ years of experience the software industry leading research and development teams. He is currently heading the team developing UofA's own homegrown LLM distribution platform: AIVerde.
-
-### Carlos Lizárraga
+**Carlos Lizárraga**<br>
 Carlos is a computational and data scientist educator at the Data Science Institute. He has broad experience in computational sciences, applied mathematics and data science (machine learning and AI applications).   
 
 ## Dates and time
 
-Sessions will run from Jan 28th through Mar 25th of 2025. 
+| **Sessions will run from August 26th through October 28th, 2025.** |
+| :-- |
+| **When:** Tuesdays @ 3:30-4:30 p.m. |
+| **Where:**  [Snakes & Lattes Tucson](https://www.snakesandlattes.com/tucson) (988 E University Blvd, Tucson, AZ). |
 
-* **When:** Tuesdays @ 3:30-4:30 p.m.
-* **Where:**  [Snakes & Lattes Tucson](https://www.snakesandlattes.com/tucson) (988 E University Blvd, Tucson, AZ).
+***
 
 ***
 
